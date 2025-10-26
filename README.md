@@ -1,5 +1,5 @@
 <p>
-  <img src="public/logo.svg" alt="Viola ORM Logo" width="120"/>
+  <img src="logo.svg" alt="Viola ORM Logo" width="120"/>
 </p>
 
 # Viola ORM: A High-Performance Developer-Friendly Micro-ORM for Java
