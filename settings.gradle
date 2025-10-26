@@ -1,0 +1,4 @@
+rootProject.name = 'viola_orm'
+include 'orm-core'
+include 'annotation-processor'
+
