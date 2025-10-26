@@ -104,9 +104,11 @@ If you have any questions, need clarification, or want to discuss features, plea
 
 |  |  |  |
 | :---: | :--- | :--- |
-| 🌐 | **LinkedIn** | [Your LinkedIn Profile Link] |
-| 📧 | **Gmail** | [Your Gmail Address] |
-| 📱 | **WhatsApp** | [Your WhatsApp Number/Link] |
-| 🐙 | **GitHub** | [Your GitHub Profile Link] |
+| 🌐 | **LinkedIn** | [Don't Hesitate to Connect](https://www.linkedin.com/in/eliasshallouf) |
+| 📧 | **Gmail** | [Say Hi](mailto:elias.m.shallouf@gmail.com) |
+| 📱 | **WhatsApp** | [WhatsApp Me](https://wa.me/963994693166) |
+| 🐙 | **GitHub** | [My Developer Side](https://github.com/EliasMShallouf) |
+| 🎨 | **Dribbble** | [My Artist Side](https://dribbble.com/elias_shallouf) |
+
 
 I look forward to connecting 👋🏻👨🏻‍💻\!
