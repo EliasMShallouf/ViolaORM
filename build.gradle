@@ -2,8 +2,8 @@ plugins {
     id 'java'
 }
 
-group = 'com.eliasmshallouf.orm'
-version = '1.0-SNAPSHOT'
+group = 'io.viola.orm'
+version = '1.0.0'
 
 repositories {
     mavenCentral()
@@ -14,5 +14,5 @@ dependencies {
 }
 
 test {
-    useJUnitPlatform()
+    //useJUnitPlatform()
 }

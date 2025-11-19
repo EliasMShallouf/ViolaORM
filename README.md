@@ -8,13 +8,13 @@
 
 ## 🚀 Key Features
 
-| Feature | Description | Advantage |
-| :--- | :--- | :--- |
-| **Compile-Time Code Generation** | Mapping code is generated during compilation via an Annotation Processor, eliminating the need for runtime reflection. | **Zero Reflection Overhead.** Leads to significantly faster startup and execution times compared to traditional runtime ORMs. |
-| **Fluent API Query Builder** | A complete object-oriented interface for constructing SQL queries, including complex conditions, arithmetic, and SQL functions. | **Type Safety.** All queries are checked by the compiler, minimizing runtime SQL errors and ensuring correct syntax. |
-| **Manual Entity Definition** | Allows developers to explicitly define tables and columns using core classes (`ColumnInfo.defineColumn()`) without relying on the annotation processor. | **Superior Flexibility.** A key advantage over ORMs like jOOQ, enabling dynamic query building or working with tables outside of defined entities. |
+| Feature | Description                                                                                                                                                                                    | Advantage |
+| :--- |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| :--- |
+| **Compile-Time Code Generation** | Mapping code is generated during compilation via an Annotation Processor, eliminating the need for runtime reflection.                                                                         | **Zero Reflection Overhead.** Leads to significantly faster startup and execution times compared to traditional runtime ORMs. |
+| **Fluent API Query Builder** | A complete object-oriented interface for constructing SQL queries, including complex conditions, arithmetic, and SQL functions.                                                                | **Type Safety.** All queries are checked by the compiler, minimizing runtime SQL errors and ensuring correct syntax. |
+| **Manual Entity Definition** | Allows developers to explicitly define tables and columns using core classes (`EntityModel.defineEntity()`, `ColumnInfo.defineColumn()`) without relying on the annotation processor.          | **Superior Flexibility.** A key advantage over ORMs like jOOQ, enabling dynamic query building or working with tables outside of defined entities. |
 | **Complex Primary Key Handling** | Supports composite keys by annotating multiple fields in an entity with `@Id`. The Annotation Processor (or manual definition) handles the creation of the equivalent complex ID column class. | **Simplicity.** Handles complex mapping boilerplate automatically. |
-| **Multi-Type Fetch Methods** | Flexible methods to retrieve query results as fully mapped **Entity Objects**, generic **Maps**, or raw **Object arrays**. | **Versatility.** Easily integrates with various data consumption requirements. |
+| **Multi-Type Fetch Methods** | Flexible methods to retrieve query results as fully mapped **Entity Objects**, generic **Maps**, or raw **Object arrays**.                                                                     | **Versatility.** Easily integrates with various data consumption requirements. |
 
 ## 🏗️ Architecture and Project Structure
 
@@ -90,9 +90,9 @@ dependencies {
 
 Viola ORM is an open-source project built by and for developers. Your help is invaluable\! We welcome contributions of any kind:
 
-  * **Bug Fixes:** Help us squash any existing bugs.
-  * **New Features:** Propose and implement new features, such as support for more complex SQL functions or additional database dialects.
-  * **Documentation:** Improve existing documentation or add usage examples.
+* **Bug Fixes:** Help us squash any existing bugs.
+* **New Features:** Propose and implement new features, such as support for more complex SQL functions or additional database dialects.
+* **Documentation:** Improve existing documentation or add usage examples.
 
 Please open an **Issue** to discuss your idea or submit a **Pull Request** with your changes.
 
@@ -104,9 +104,11 @@ If you have any questions, need clarification, or want to discuss features, plea
 
 |  |  |  |
 | :---: | :--- | :--- |
-| 🌐 | **LinkedIn** | [Your LinkedIn Profile Link] |
-| 📧 | **Gmail** | [Your Gmail Address] |
-| 📱 | **WhatsApp** | [Your WhatsApp Number/Link] |
-| 🐙 | **GitHub** | [Your GitHub Profile Link] |
+| 🌐 | **LinkedIn** | [Don't Hesitate to Connect](https://www.linkedin.com/in/eliasshallouf) |
+| 📧 | **Gmail** | [Say Hi](mailto:elias.m.shallouf@gmail.com) |
+| 📱 | **WhatsApp** | [WhatsApp Me](https://wa.me/963994693166) |
+| 🐙 | **GitHub** | [My Developer Side](https://github.com/EliasMShallouf) |
+| 🎨 | **Dribbble** | [My Artist Side](https://dribbble.com/elias_shallouf) |
+
 
 I look forward to connecting 👋🏻👨🏻‍💻\!
